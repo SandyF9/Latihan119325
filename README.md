@@ -22,7 +22,6 @@
         <h2>Tentang Halaman Ini</h2>
         <p>Ini merupakan section untuk menu Tentang</p>
     </Section>
-
     <section id="kursus">
         <h2>Daftar Kursus</h2>
         <table border="1">
@@ -43,9 +42,6 @@
             </tr>
         </table>  
     </section>
-    
-    
-
     <h2>html Forms </h2>
         <form action="/action_page.php">
             <label for="fname">First name:</label>
@@ -58,9 +54,7 @@
             name="iname" value="Febrianto"><br><br>
             <input type="submit" value="Submit">
             </form>
-
         <p>Jika anda mengeklik tombol "Submit", maka akan selesai </p>
-
      <footer>
         <p>&copy; 2025 oleh Sandy Febrianto </p>
      </footer>
