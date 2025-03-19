@@ -47,11 +47,11 @@
             <label for="fname">First name:</label>
         <br>
             <input type="text" id="fname"
-            name="fname" value="Sandy"> <br>
+                name="fname" value="Sandy"> <br>
             <label type="iname">Last name:</label>
             <br>
                 <input type="text" id="iname"
-            name="iname" value="Febrianto"><br><br>
+                    name="iname" value="Febrianto"><br><br>
             <input type="submit" value="Submit">
             </form>
         <p>Jika anda mengeklik tombol "Submit", maka akan selesai </p>
